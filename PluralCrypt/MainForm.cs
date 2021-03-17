@@ -13,7 +13,7 @@ using System.Text;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 using NLog;
-using PluralCrypt.Encryption;
+using PluralCrypt.EncryptionV2;
 using PluralCrypt.Model;
 using static System.Windows.Forms.ListView;
 using Module = PluralCrypt.Model.Module;
